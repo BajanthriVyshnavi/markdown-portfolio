@@ -1,2 +1,1 @@
-https://github.com
-https://exanple.com
+https://example.com
